@@ -43,10 +43,10 @@
                         </goals>
                     </execution>
                 </executions>
-<!--                <configuration>-->
+                <configuration>
 <!--                    <configLocation>src/main/resources/checks.xml</configLocation>-->
-<!--                    <suppressionsLocation>src/main/resources/suppressions.xml</suppressionsLocation>-->
-<!--                </configuration>-->
+                    <suppressionsLocation>src/main/resources/suppressions.xml</suppressionsLocation>
+                </configuration>
             </plugin>
         </plugins>
     </build>
